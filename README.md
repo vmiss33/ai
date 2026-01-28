@@ -1,0 +1,2 @@
+# ai
+random ai projects
